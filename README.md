@@ -30,9 +30,5 @@ Swift Task App: A simple iOS app built with Swift and XCode, integrating CoreML 
 
 📫 Get in Touch
 
-LinkedIn: linkedin.com/in/your-profile
-Email: your.email@example.com
-Portfolio: your-username.github.io
-Devpost: devpost.com/your-profile
 
 Thanks for stopping by! I’m excited to collaborate on AI, cloud, or aerospace projects.
